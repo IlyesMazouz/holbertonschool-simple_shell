@@ -1,4 +1,11 @@
-INTROCUDTION:
+<h1 align="center">
+    💡 _simple_shell:
+<p align="center">
+    </p>
+
+![1_lqEaA1-6gGQhdLS3k8X0xw](https://user-images.githubusercontent.com/31927278/182706961-e087c64e-9d7b-40db-a931-67009dc34089.gif)
+
+#INTROCUDTION:
 
 A simple shell is a program that allows users to interact with the operating system by executing commands.
 It is a simplified version of the UNIX shell that provides a user-friendly interface for executing commands. The shell accepts user input, parses it into a command and arguments, and then executes the command with the specified arguments.
@@ -6,7 +13,7 @@ It is a simplified version of the UNIX shell that provides a user-friendly inter
 
 
 
-CODE OVERVIEW:
+# :bulb: CODE OVERVIEW:
 
 The code for the simple shell project is divided into multiple files, each with a specific purpose. Here is an overview of each file and its purpose:
 
@@ -45,7 +52,7 @@ This file contains the main function that calls the shell loop function.
 
 
 
-FUNCTIONALITY:
+# :bulb: FUNCTIONALITY:
 
 The simple shell project implements the following functionality:
 
@@ -61,8 +68,31 @@ The simple shell project implements the following functionality:
 
 
 
+# :bulb: compilation and testing:
 
-CONCLUTION:
+```{r mon_bloc, echo = FALSE, WARNING = TRUE}
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
+```
+# :bulb: execute:
+
+./hsh
+# :bulb: how we use shell:
+
+shell display each time a command that we executed
+ the comand that most user excute in shell:
+|- ls        |to list files and directory            |
+| :--------- | ------------------------------------: |
+|- cd        | change directory                      |
+|- pwd       | print working directory               |
+|- cat       | show you what we wrote in our file    |
+|- env       | print the environment variable        |
+|- printenv  | print the shell variable              |
+|- exit      | shell will end and it gonna exit      |
+
+
+
+
+#CONCLUTION:
 
 The simple shell project provides a basic understanding of how a shell works and how it interacts with the operating system.
 It demonstrates how to accept user input, parse it, and execute the commands with specified arguments.
@@ -70,7 +100,7 @@ The project also includes functionality for handling the exit command and printi
 
 
 
-AUTHORS:
+#AUTHORS:
 
 ILYES MAZOUZ
 
