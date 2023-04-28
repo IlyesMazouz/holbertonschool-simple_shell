@@ -5,7 +5,7 @@
 
 ![1_lqEaA1-6gGQhdLS3k8X0xw](https://user-images.githubusercontent.com/31927278/182706961-e087c64e-9d7b-40db-a931-67009dc34089.gif)
 
-#INTROCUDTION:
+# INTROCUDTION:
 
 A simple shell is a program that allows users to interact with the operating system by executing commands.
 It is a simplified version of the UNIX shell that provides a user-friendly interface for executing commands. The shell accepts user input, parses it into a command and arguments, and then executes the command with the specified arguments.
@@ -92,7 +92,7 @@ shell display each time a command that we executed
 
 
 
-#CONCLUTION:
+# CONCLUTION:
 
 The simple shell project provides a basic understanding of how a shell works and how it interacts with the operating system.
 It demonstrates how to accept user input, parse it, and execute the commands with specified arguments.
@@ -100,7 +100,7 @@ The project also includes functionality for handling the exit command and printi
 
 
 
-#AUTHORS:
+# AUTHORS:
 
 ILYES MAZOUZ
 
