@@ -1,5 +1,5 @@
 <h1 align="center">
-    💡 _simple_shell:
+    💡 _simple_shell project:
 <p align="center">
     </p>
 
